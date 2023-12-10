@@ -10,7 +10,11 @@ Tech Stack ==>
   JavaScript: Powering the player's functionality, enabling smooth play and pause interactions.
 
 Features==>
+
   Play and pause functionality
+  
   Clean and intuitive user interface
+  
   Lightweight and easy to integrate into existing projects
+  
   Cross-browser compatibility
